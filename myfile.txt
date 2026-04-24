@@ -1,1 +1,12 @@
 Welcome to My New File
+i'm adding new line number
+1 Suraj
+2 Megha
+3 MeghaSuraj
+4 SurajMegha
+5 FNU
+6 FNU
+7 FNU
+8 FNU
+9 FNU
+10 FNU
